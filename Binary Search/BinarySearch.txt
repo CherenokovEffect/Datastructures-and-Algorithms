@@ -1,0 +1,17 @@
+Binary search works iff:
+
+Array is sorted
+
+Predicate is monotonic (false → true OR true → false)
+
+A function / condition is monotonic if it changes in only one direction.
+
+That means:
+
+Once it becomes true, it never becomes false again
+OR
+
+Once it becomes false, it never becomes true again
+
+No zig-zag.
+
