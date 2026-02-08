@@ -1,0 +1,3 @@
+g++ -S filename  will generate the assembly of the code
+
+g++ -O2 -S filename 
